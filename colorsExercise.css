@@ -1,21 +1,37 @@
 h1 {
     color: crimson;
+    background-color: red;
 }
 h2 {
     color: #00a58c;
+    background-color: orange;
 }
 h3 {
     color: #0f5;
+    background-color: yellow;
 }
 h4 {
-    color: #ff548755;
+    color: #df241355;
+    background-color: green;
 }
 h5 {
     color: #f585;
+    background-color: blue;
 }
 h6 {
     color: rgb(200, 0, 200);
+    background-color: indigo;
 }
 p {
     color: RGBA(139, 220, 250,0.5);
+    background-color: violet;
+}
+#hot-pink {
+    color: hotpink;
+}
+#peachpuff {
+    background-color: peachpuff;
+}
+.border {
+    border: solid 5px green;
 }
